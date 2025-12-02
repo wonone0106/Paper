@@ -1,3 +1,6 @@
+## 서론
+LLM 모델들의 근본이라고 생각할 수 있는 Transformer 모델을 살펴보자!
+
 # Attention Is All You Need
 
 ## 초록
