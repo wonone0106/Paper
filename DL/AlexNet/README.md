@@ -1,4 +1,4 @@
-## 서론
+## 동기
 정량적인 CNN의 시작이라고 생각할 수 있는 AlexNet을 살펴보자!
 
 # ImageNet Classification with Deep Convolutional Neural Networks
